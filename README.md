@@ -62,15 +62,27 @@ The framework was designed to detect real-world threats such as:
 - 🔴 **Suspicious IP activity** (outlier behavior)
 
 ---
+
 ## 📸 Screenshots
 
 ### 🏠 Dashboard Overview
-![Dashboard](screenshots/YOUR-ACTUAL-FILENAME.png)
+![Dashboard](dashboard.png)
+*Real-time metrics: total packets, unique sources, destinations, and protocol count.*
 
 ### 📊 Protocol Distribution
-[IMAGE SHOWS HERE]
-...
----
+![Protocol](protocol.png)
+*Interactive pie chart showing TCP, UDP, and ICMP traffic breakdown.*
+
+### 🏆 Top 10 Source IPs
+![Top IPs](top_ips.png)
+*Horizontal bar chart ranking the most active IP addresses.*
+
+### 🚨 AI Anomaly Detection
+![Anomaly](anomaly.png)
+*Suspicious IPs flagged by the Isolation Forest model with confidence scoring.*
+
+----
+
 ## 🎯 Key Capabilities
 
 | Capability | Description |
