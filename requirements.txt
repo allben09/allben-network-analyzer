@@ -1,8 +1,8 @@
-scapy
+streamlit
 pandas
 numpy
 scikit-learn
-streamlit
 matplotlib
-requests
+seaborn
 plotly
+scapy
