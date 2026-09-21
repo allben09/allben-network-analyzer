@@ -65,8 +65,7 @@ The framework was designed to detect real-world threats such as:
 ## 📸 Screenshots
 
 ### 🏠 Dashboard Overview
-[IMAGE SHOWS HERE]
-*Real-time metrics: total packets, unique sources, destinations, and protocol count.*
+![Dashboard](screenshots/YOUR-ACTUAL-FILENAME.png)
 
 ### 📊 Protocol Distribution
 [IMAGE SHOWS HERE]
