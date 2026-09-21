@@ -62,7 +62,16 @@ The framework was designed to detect real-world threats such as:
 - 🔴 **Suspicious IP activity** (outlier behavior)
 
 ---
+## 📸 Screenshots
 
+### 🏠 Dashboard Overview
+[IMAGE SHOWS HERE]
+*Real-time metrics: total packets, unique sources, destinations, and protocol count.*
+
+### 📊 Protocol Distribution
+[IMAGE SHOWS HERE]
+...
+---
 ## 🎯 Key Capabilities
 
 | Capability | Description |
